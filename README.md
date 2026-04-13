@@ -26,10 +26,6 @@ A collection of Jupyter notebooks covering key topics in machine learning, from 
 - Scikit-learn
 - PyTorch, PyTorch Geometric
 
-## Getting Started
-
-
-
 ## Author
 
 **Sandra Jojo** — M.Sc. Mathematics, Freie Universität Berlin
