@@ -29,15 +29,10 @@ A collection of Jupyter notebooks covering key topics in machine learning, from 
 
 ## Getting Started
 
-```bash
-git clone https://github.com/sandrajojo61999-png/ml-coursework.git
-cd ml-coursework
-pip install -r requirements.txt
-jupyter notebook
-```
+
 
 ## Author
 
 **Sandra Jojo** — M.Sc. Mathematics, Freie Universität Berlin
 
-linkedin.com/in/sandrajojo61
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sandrajojo61)
